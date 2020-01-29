@@ -1,5 +1,5 @@
 //This code, which simulates Fire Emblem Heroes' summoning mechanics, was originally written in Python by igfod13
-//Translated into JavaScript by MaskedSylveon
+//Translated into JavaScript by me
 //Version 0.1
 //2019
 
